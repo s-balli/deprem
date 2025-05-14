@@ -1,4 +1,4 @@
-Kandilli Rasathanesi verilerini görselleştirilmesi
+Kandilli Rasathanesi verilerinin görselleştirilmesi
 
 
 https://s-balli.github.io/deprem/
